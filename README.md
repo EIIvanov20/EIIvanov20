@@ -18,6 +18,7 @@
 
 
 <a href ="https://www.instagram.com/_eriicc_16/" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a/>
+<a href ="https://www.facebook.com/eric.ivanov/" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><a/>
 
 
 <br>
