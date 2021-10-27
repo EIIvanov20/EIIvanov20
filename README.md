@@ -1,16 +1,34 @@
-### Hi there 👋
+# Hello, my name is Eric Ivanov
+<hr>
 
-<!--
-**EIIvanov20/EIIvanov20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkvatev98&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23F7F7F7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Here are some ideas to get you started:
+<img align="right" height="250" width="375" alt="" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif" href />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Talking about Personal Stuffs:
+
+- 🚀 &nbsp; I’m currently learning HTML5&CSS3 and C++ .
+- 📫 &nbsp; You can reach me at: EIIvanov@codingburgas.bg
+
+
+
+<hr>
+
+### Connect with me:
+
+
+<a href ="http://www.google.com" ><img align="left" alt="fb" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /><a/>
+<img align="left" alt="https://outlook.office.com/mail/inbox" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<br>
+<hr>
+
+### Languages and Tools:
+
+<code><img alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>
+<code><img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" ></code>
+<code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" ></code>
+
+<hr>
